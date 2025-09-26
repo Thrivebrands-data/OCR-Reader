@@ -1,5 +1,5 @@
-streamlit
-easyocr
-opencv-python
-pyspellchecker
-numpy
+streamlit: 1.49.1
+easyocr: 1.7.2
+opencv-python (cv2): 4.12.0
+pyspellchecker: 0.8.3
+numpy: 2.2.6
